@@ -7,6 +7,7 @@ I am a computer science student @ the University of Waterloo, aspiring to advanc
 - 📫 Feel free to reach me at bonnie.peng@uwaterloo.ca
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm passionate about photography! Take a peek at my portfolio [here](https://bonniepeng.com/photography.html)
+- 👯 Learn more about me at [my personal website!](https://bonniepeng.com/)
 
 
 
