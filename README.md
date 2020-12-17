@@ -5,9 +5,9 @@ I am a computer science student @ the University of Waterloo, aspiring to advanc
 - 🌱 I’m currently working on Bloomi, a virtual garden and plant tracking app!
 - 💬 Tools I always use: Python, Java, HTML, CSS, JavaScript, Photoshop, Android Studio, Visual Studio, Git
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm super passionate about photography. Take a peek at my portfolio [here](https://bonniepeng.com/photography.html)
+- ⚡ Fun fact: I'm super passionate about photography! Take a peek at my portfolio [here](https://bonniepeng.com/photography.html)
 - 📫 Feel free to reach me at bonnie.peng@uwaterloo.ca
-- 👯 Learn more about me at [my personal website!](https://bonniepeng.com/)
+- 👯 Learn more about me at [bonniepeng.com](https://bonniepeng.com/)!
 
 
 
