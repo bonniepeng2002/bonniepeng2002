@@ -1,6 +1,6 @@
 ### Nice to meet you, I'm Bonnie! 👋
 
-I am a computer science student @ the University of Waterloo, aspiring to advance the world of med tech!
+I am a computer science student @ the University of Waterloo, aspiring to advance the world of medical tech!
 
 - 🌱 I’m currently working on Bloomi, a virtual garden and plant tracking app!
 - 💬 Tools I always use: Python, Java, HTML, CSS, JavaScript, Photoshop, Android Studio, Visual Studio, Git
