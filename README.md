@@ -9,7 +9,7 @@ I'm a Computer Science student @ the University of Waterloo, aspiring to advance
 - 😄 Pronouns: She/Her
 
 [![Linkedin Badge](https://img.shields.io/badge/-@bonniepeng-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bonniepeng/)](https://www.linkedin.com/in/bonniepeng/)
-[![Website Badge](https://img.shields.io/badge/-www.bonniepeng.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://bonniepeng.com)](https://bonniepeng.com)
+[![Website Badge](https://img.shields.io/badge/-bonniepeng.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://bonniepeng.com)](https://bonniepeng.com)
 [![Instagram Badge](https://img.shields.io/badge/-@bonniepeng_-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/bonniepeng_/)](https://instagram.com/bonniepeng_)
 [![Outlook Badge](https://img.shields.io/badge/-bonnie.peng-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:bonnie.peng@uwaterloo.ca)](mailto:bonnie.peng@uwaterloo.ca)
 
