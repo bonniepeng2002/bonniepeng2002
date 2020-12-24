@@ -6,7 +6,6 @@ I'm a Computer Science student @ the University of Waterloo, aspiring to advance
 - 💬 Tools I always use: Python, Java, HTML, CSS, JavaScript, Photoshop, Android Studio, Visual Studio, Git
 - ⚡ Fun fact: I'm super passionate about photography! I'll talk about it for hours ;)
 - 👯 Learn more about me at [bonniepeng.com](https://bonniepeng.com/)!
-- 📫 Feel free to reach me at bonnie.peng@uwaterloo.ca
 - 😄 Pronouns: She/Her
 
 [![Linkedin Badge](https://img.shields.io/badge/-bonniepeng-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bonniepeng/)](https://www.linkedin.com/in/bonniepeng/)
