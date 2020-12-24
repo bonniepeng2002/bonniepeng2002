@@ -1,12 +1,12 @@
 # Nice to meet you, I'm Bonnie! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm a Computer Science student @ the University of Waterloo, aspiring to advance the world of medical tech!
+I'm a **Computer Science student @ the University of Waterloo**, aspiring to advance the world of medical tech!
 
-- 🌱 I’m currently working on Bloomi, a virtual garden and plant tracking app!
-- 💬 Tools I always use: Python, Java, HTML, CSS, JavaScript, Photoshop, Android Studio, Visual Studio, and Git
-- ⚡ Fun fact: I'm *super* passionate about photography, I'll talk about it for hours ;)
-- 👯 Learn more about me at [bonniepeng.com](https://bonniepeng.com/)!
-- 😄 Pronouns: She/Her
+- 🌱 I’m **currently working** on Bloomi, a virtual garden and plant tracking app!
+- 💬 **Tools I always use:** Python, Java, HTML, CSS, JavaScript, Photoshop, Android Studio, Visual Studio, and Git
+- ⚡ **Fun fact:** I'm *super* passionate about photography, I'll talk about it for hours ;)
+- 👯 Learn more about me at **[bonniepeng.com](https://bonniepeng.com/)!**
+- 😄 **Pronouns:** She/Her
 
 [![Linkedin Badge](https://img.shields.io/badge/-@bonniepeng-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bonniepeng/)](https://www.linkedin.com/in/bonniepeng/)
 [![Website Badge](https://img.shields.io/badge/-bonniepeng.com-pink?style=flat&logo=Google-Chrome&logoColor=white&link=https://bonniepeng.com)](https://bonniepeng.com)
