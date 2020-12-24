@@ -13,7 +13,7 @@ I'm a Computer Science student @ the University of Waterloo, aspiring to advance
 [![Instagram Badge](https://img.shields.io/badge/-@bonniepeng_-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/bonniepeng_/)](https://instagram.com/bonniepeng_)
 [![Gmail Badge](https://img.shields.io/badge/-bonnie.peng-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:bonnie.peng@uwaterloo.ca)](mailto:bonnie.peng@uwaterloo.ca)
 
-[![Bonnie's Github Stats](https://github-readme-stats.vercel.app/api?username=bonniepeng2002&hide=contribs,issues&?count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Bonnie's Github Stats](https://github-readme-stats.vercel.app/api?username=bonniepeng2002&hide=contribs,issues&?count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
