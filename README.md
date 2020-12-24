@@ -13,6 +13,9 @@ I'm a Computer Science student @ the University of Waterloo, aspiring to advance
 [![Instagram Badge](https://img.shields.io/badge/-@bonniepeng_-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/bonniepeng_/)](https://instagram.com/bonniepeng_)
 [![Gmail Badge](https://img.shields.io/badge/-bonnie.peng-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:bonnie.peng@uwaterloo.ca)](mailto:bonnie.peng@uwaterloo.ca)
 
+[![Bonnie's Github Stats](https://github-readme-stats.vercel.app/api?username=bonniepeng2002)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **bonniepeng2002/bonniepeng2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
