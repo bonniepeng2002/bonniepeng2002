@@ -1,4 +1,4 @@
-### Nice to meet you, I'm Bonnie! 👋
+### Nice to meet you, I'm Bonnie! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I'm a Computer Science student @ the University of Waterloo, aspiring to advance the world of medical tech!
 
