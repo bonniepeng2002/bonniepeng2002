@@ -14,7 +14,7 @@ I'm a **Computer Science student @ the University of Waterloo**, aspiring to adv
 
 # 
 
-[![Bonnie's Github Stats](https://github-readme-stats.vercel.app/api?username=bonniepeng2002&hide=contribs,issues&?count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Bonnie's Github Stats](https://github-readme-stats.vercel.app/api?username=bonniepeng2002&hide=contribs,issues&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bonniepeng2002&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
