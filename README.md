@@ -2,7 +2,7 @@
 
 I'm a **Computer Science student @ the University of Waterloo**, aspiring to advance the world of medical tech!
 
-- 🌱 I’m currently working on Bloomi, a virtual garden and plant tracking app! Follow me along [Bloomi's development journey here!](https://github.com/bonniepeng2002/Bloomi/blob/master/BLOOMI-LOG.md)
+- 🌱 I’m currently working on Bloomi, a virtual garden and plant tracking app! Check it out [here!](https://github.com/bonniepeng2002/Bloomi#bloomi-)
 - 💬 Tools I always use:  Python,  Java,  Firebase, HTML/CSS,  JavaScript,  Photoshop,  Android Studio,  Visual Studio,  and Git
 - ⚡ Fun fact: I'm super passionate about photography... smile! ;)
 - 👯 Learn more about me at **[bonniepeng.com](https://bonniepeng.com/)**
