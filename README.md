@@ -2,11 +2,11 @@
 
 I'm a **Computer Science student @ the University of Waterloo**, aspiring to advance the world of medical tech!
 
-- 🌱 My most recent project is Bloomi, a virtual garden and plant tracking app! [Check it out here!](https://github.com/bonniepeng2002/Bloomi#bloomi-)
-- 💬 Tools I always use:  JavaScript, React, TypeScript, Python, Java, Firebase, HTML/CSS, Android Studio, Visual Studio, and Git
+- 🌱 My most recent project is the 2nd iteration of my personal website, [check it out here!](https://github.com/bonniepeng2002/bonnie-web)
+- 💬 Tools I always use:  TypeScript, JavaScript, React, Sass, Python, Java, Firebase, HTML/CSS, Android Studio, Visual Studio, and Git
 - ⚡ Fun fact: I'm super passionate about photography... smile! ;)
 - 👯 Learn more about me at **[bonniepeng.com](https://bonniepeng.com/)**
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: She/Her/Hers
 
 [![Linkedin Badge](https://img.shields.io/badge/-@bonniepeng-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bonniepeng/)](https://www.linkedin.com/in/bonniepeng/)
 [![Website Badge](https://img.shields.io/badge/-bonniepeng.com-purple?style=flat&logo=Google-Chrome&logoColor=white&link=https://bonniepeng.com)](https://bonniepeng.com)
