@@ -2,7 +2,7 @@
 
 I'm a **Computer Science student @ the University of Waterloo**, aspiring to advance the world of medical tech!
 
-- 🌱 My most recent project is the 2nd iteration of my personal website, [check it out here!](https://bonniepeng.com)
+- 🌱 My most recent project is the 2nd iteration of my personal website, [check it out here!](https://www.bonniepeng.com)
 - 💬 Tools I always use:  TypeScript, JavaScript, React, Sass, Python, Java, Firebase, HTML/CSS, Android Studio, Visual Studio, and Git
 - ⚡ Fun fact: I'm super passionate about photography... smile! ;)
 - 👯 Learn more about me at **[bonniepeng.com](https://bonniepeng.com/)**
