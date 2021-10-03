@@ -6,7 +6,7 @@ I'm a **Computer Science student @ the University of Waterloo**, aspiring to adv
 - 💬 Tools I always use:  TypeScript, JavaScript, React, Sass, Python, Java, Firebase, HTML/CSS, Android Studio, Visual Studio, and Git
 - ⚡ Fun fact: I'm super passionate about photography... smile! ;)
 - 👯 Learn more about me at **[bonniepeng.com](https://bonniepeng.com/)**
-- 😄 Pronouns: She/Her/Hers
+- 😄 Pronouns: `She/Her/Hers`
 
 [![Linkedin Badge](https://img.shields.io/badge/-@bonniepeng-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bonniepeng/)](https://www.linkedin.com/in/bonniepeng/)
 [![Website Badge](https://img.shields.io/badge/-bonniepeng.com-purple?style=flat&logo=Google-Chrome&logoColor=white&link=https://bonniepeng.com)](https://bonniepeng.com)
