@@ -8,6 +8,7 @@ Web Dev: TypeScript/JavaScript, React, HTML, CSS/SCSS, Next.js
 Mobile Dev: TypeScript/JavaScript, React Native, React Redux, Java, Android SDK, XML, Firebase
 Other: SQL, Python, C/C++, Bash, Docker
 
+## Learn More
 - 🌱 My most recent project is the 2nd iteration of my personal website, [check it out here!](https://www.bonniepeng.com)
 - ⚡ Fun fact: I'm super passionate about photography... smile! ;)
 - 👯 Learn more about me at **[bonniepeng.com](https://bonniepeng.com/)**
