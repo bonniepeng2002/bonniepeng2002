@@ -1,12 +1,12 @@
 # Nice to meet you, I'm Bonnie! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I'm a **Computer Science student @ the University of Waterloo**, a **DevOps Engineer @ BDO**, and I'm aspiring to advance the world of medical tech! <br>
-I'm always open to connections on [LinkedIn](https://www.linkedin.com/in/bonniepeng/), coffee chats 🍵, and I'm additionally looking for Summer 2023 opportunities.
+I'm always open to connections on [LinkedIn](https://www.linkedin.com/in/bonniepeng/) and coffee chats 🍵.
 
 ## Tech Stack
 **Web Dev:** TypeScript/JavaScript, React, HTML, CSS/SCSS, Next.js <br>
 **Mobile Dev:** TypeScript/JavaScript, React Native, React Redux, Java, Android SDK, XML, Firebase <br>
-**Other:** SQL, Python, C/C++, Figma, Bash, Docker <br>
+**Other:** SQL, Python, Terraform, C/C++, Figma, Bash, Docker <br>
 
 ## Learn More
 - 🌱 My most recent project is the 2nd iteration of my personal website, [check it out here!](https://www.bonniepeng.com)
