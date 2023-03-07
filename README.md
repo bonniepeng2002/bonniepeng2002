@@ -1,6 +1,6 @@
 # Nice to meet you, I'm Bonnie! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm a **Computer Science student @ the University of Waterloo**, a **DevOps Engineer @ BDO**, and I'm aspiring to advance the world of medical tech! <br>
+I'm a **Computer Science student @ the University of Waterloo**, a **Software Development Engineer @ Amazon**, and I'm aspiring to advance the world of medical tech! <br>
 I'm always open to connections on [LinkedIn](https://www.linkedin.com/in/bonniepeng/) and coffee chats 🍵.
 
 ## Tech Stack
