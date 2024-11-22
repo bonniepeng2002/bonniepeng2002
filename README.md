@@ -9,9 +9,9 @@ I'm always open to connections on [LinkedIn](https://www.linkedin.com/in/bonniep
 **Other:** SQL, Python, Terraform, C/C++, Figma, Bash, Docker <br>
 
 ## Learn More
-- 🌱 My most recent project is the 2nd iteration of my personal website, [check it out here!](https://www.bonniepeng2002-github-io.vercel.app)
+- 🌱 My most recent project is the 2nd iteration of my personal website, [check it out here!](http://www.bonniepeng2002-github-io.vercel.app)
 - ⚡ Fun fact: I'm super passionate about photography... smile!
-- 👯 Learn more about me at **[bonniepeng2002-github-io.vercel.app](https://www.bonniepeng2002-github-io.vercel.app)**
+- 👯 Learn more about me at **[bonniepeng2002-github-io.vercel.app](http://www.bonniepeng2002-github-io.vercel.app)**
 - 😄 Pronouns: `She/Her/Hers`
 
 [![Linkedin Badge](https://img.shields.io/badge/-@bonniepeng-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bonniepeng/)](https://www.linkedin.com/in/bonniepeng/)
